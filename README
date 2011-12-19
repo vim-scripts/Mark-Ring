@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3851
+
+Maps <leader>m and <leader>M to cycle through your marks alphabetically and
+reverse alphabetically, respectively.
+
+Only cycles through alphabetic marks, though that's easy to change if you edit 
+the script.
+
+Requires Vim to be compiled with Python support.
+Hosted at https://github.com/michaelnussbaum08/Mark-Ring

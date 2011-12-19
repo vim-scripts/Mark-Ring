@@ -1,0 +1,9 @@
+Use <leader>m to cycle through your marks in alphabetic order, and use
+<leader>M to cycle through your marks in reverse alphabetic order.
+
+Only cycles through alphabetic marks. If you want to change that then edit the
+marks string in script.
+
+Bindings can be changed in the script.
+
+Requires Vim 7.x compiled with Python support.
